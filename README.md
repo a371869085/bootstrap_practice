@@ -3,7 +3,12 @@
 -去 bootstrap 的網站
 -從網站下載 bootstrap package (壓縮檔)按進去，把資料夾整個移到 Sublime Text，資料夾展開後會有 css、 fonts、 js 的資料夾
 -在 Sublime Text 資料夾上，按右鍵，New file ,打上 index.html 存檔，新增一個檔案
--先在 index.html 裡貼上 <!DOCTYPE html>  <html lang='en'> <head>  <title>Hellow student</title>   </head> <body>
+-先在 index.html 裡貼上 ``<!DOCTYPE html>``
+                       ``<html lang='en'>`` 
+                      ``<head> `` 
+                      ``<title>Hellow student</title> `` 
+                      ``</head>`` 
+                       ``<body>``
 -在加段落進去‵`<h1>大標題</h1>``
              ``<h2>文章標題</h2>``
             `` <p>內容</p>``
